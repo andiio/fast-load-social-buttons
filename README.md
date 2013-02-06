@@ -7,5 +7,5 @@ They don't want you to use this system, they what control... but it gives your p
 
 @TODO fix twitter text+Via
 
+![alt tag](https://raw.github.com/andiio/fast-load-social-buttons/master/Screen_Shot.png)
 
-<img src="https://github.com/andiio/fast-load-social-buttons/blob/master/Screen_Shot.png">
