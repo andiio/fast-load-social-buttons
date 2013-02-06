@@ -7,3 +7,5 @@ They don't want you to use this system, they what control... but it gives your p
 
 @TODO fix twitter text+Via
 
+
+<img src="https://github.com/andiio/fast-load-social-buttons/blob/master/Screen_Shot.png">
